@@ -168,7 +168,7 @@ let HTML = `<!DOCTYPE html>
     <script
       id="MathJax-script"
       async
-      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+      src="https://jsd.cdn.zzko.cn/npm/mathjax@3/es5/tex-mml-chtml.js"
     ></script>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet"/>
